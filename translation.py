@@ -64,10 +64,10 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](@filmsandtrends_Owner)
+**👨‍💻 Developer:** [Rincemon Reji](https://t.me/filmsandtrends_Owner)
 
-**📮 Channel:** [NS BOT UPDATES](@filmsanstrends)
+**📮 Channel:** [Film and Trends](@filmsanstrends)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/joinchat/Tb-f8lNcwAH0Q7sTjr1tew)
+**👥 Group:** [Films and Trends](https://t.me/joinchat/Tb-f8lNcwAH0Q7sTjr1tew)
 
-**💻 Source Code:**[Press Me](@filmsandtrends_Owner)"""
+**💻 Source Code:**[Press Me](https://t.me/filmsandtrends_Owner)"""
