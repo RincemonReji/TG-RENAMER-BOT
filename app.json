@@ -8,10 +8,10 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/erichdanikeninfo/TG-Rename-Bot",
-  "logo": "https://telegra.ph/file/681227bece69de877e442.jpg",
+  "success_url": "@filmsandtrends",
+  "website": "@filmsandtrends_Owner",
+  "repository": "@filmsanstrends_Owner",
+  "logo": "",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -22,8 +22,8 @@
       "value": ""
     },
     "USER_NAME": {
-      "description": "Your user name like @Ns_AnoNymouS",
-      "value": "@Ns_AnoNymouS"
+      "description": "Your user name like @filmsandtrends_Owner",
+      "value": "@filmsandtrends_Owner"
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
