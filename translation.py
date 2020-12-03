@@ -3,7 +3,7 @@ from sample_config import Config
 class Translation(object):
     START_TEXT = """Hello <i><b>{}</b></i>,
 
-This is a Telegram Rename clone of <a href='@filmsandtrends_Owner'>Renamer NS BOT</a> by {}
+This is a Telegram Rename clone of <a href='@filmsandtrends_Owner'>Renamer BOT</a> by {}
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 
